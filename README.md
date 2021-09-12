@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer
 
-- ⚡ I'm writeing React js and PHP Laravel 2 years. I've been writing code for 6 years.
+- ⚡ I'm writing React js and PHP Laravel 2 years. I've been writing code for 6 years.
 - ⚡ I'm try learning React Native. Actually I'm currently learning everything.
 - ⚡ One day I'm in silicon valley. Wait for me.
 - ⚡ Fun fact: I love listening to music and reading comics.
