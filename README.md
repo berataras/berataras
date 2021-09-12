@@ -1,7 +1,5 @@
 ### Hi there, I'm Berat - aka [berataras][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
-
 ## I'm a Full Stack Developer
 
 - ⚡ I'm writeing React js and PHP Laravel 2 years. I've been writing code for 6 years.
