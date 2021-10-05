@@ -6,8 +6,6 @@
 <br>
 ⚡ I'm try learning React Native. Actually I'm currently learning everything.
 <br>
-⚡ One day I'm in silicon valley. Wait for me.
-<br>
 ⚡ Fun fact: I love listening to music and reading comics.
 
 ### Connect with me:
