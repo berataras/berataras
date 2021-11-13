@@ -1,5 +1,4 @@
-### Hi there, I'm Berat 👋      
-[berataras.com][website] 
+### Hi there, I'm Berat | [berataras.com][website] 
 
 ## I'm a Full Stack Developer
 
