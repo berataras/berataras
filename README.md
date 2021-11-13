@@ -1,10 +1,10 @@
-### Hi there, I'm Berat - aka [berataras][website] 👋
+### Hi there, I'm Berat 👋 - [berataras.com][website] 
 
 ## I'm a Full Stack Developer
 
 ⚡ I'm writing React js and PHP Laravel 2 years. I've been writing code for 6 years. 
 <br>
-⚡ I'm try learning React Native. Actually I'm currently learning everything.
+⚡ I'm try learning NodeJS, ExpressJS recently. Actually I'm currently learning everything.
 <br>
 ⚡ Fun fact: I love listening to music and reading comics.
 
