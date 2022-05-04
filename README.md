@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer
 
-⚡ I'm writing React js and PHP Laravel.
+⚡ I'm writing ReactJS, NextJS and PHP Laravel.
 <br>
 ⚡ I'm try learning NodeJS, ExpressJS recently. Actually I'm currently learning everything.
 <br>
