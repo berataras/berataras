@@ -48,5 +48,5 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 [website]: https://berataras.com
-[youtube]: https://www.youtube.com/channel/UCKa37vopiWqspdv7WSqoILQ/featured
+[youtube]: https://www.youtube.com/berataras
 [linkedin]: https://www.linkedin.com/in/berat-aras-89255218a
