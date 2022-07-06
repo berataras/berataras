@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Developer
 
-⚡ I'm writing ReactJS, NextJS and PHP Laravel.
+⚡ I'm writing ReactJS, NextJS, NodeJS, ExpressJS and PHP Laravel.
 <br>
-⚡ I'm try learning NodeJS, ExpressJS recently. Actually I'm currently learning everything.
+⚡ I love learning new technologies.
 <br>
-⚡ Fun fact: I love listening to music and reading comics.
+⚡ Fun fact: I love play computer games and reading comics.
 
 ### Connect with me:
 
