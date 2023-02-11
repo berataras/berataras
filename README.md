@@ -1,6 +1,6 @@
 ### Hi there, I'm Berat | [berataras.com][website] 
 
-## I'm a Full Stack Developer
+## I'm a Software Developer
 
 ⚡ I'm writing ReactJS, NextJS, NodeJS, ExpressJS and PHP Laravel.
 <br>
