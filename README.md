@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer
 
-⚡ I'm writing ReactJS, NextJS, NodeJS, ExpressJS and PHP Laravel.
+⚡ I'm writing ReactJS, React Native (Expo), NextJS, NodeJS (Express), and PHP (Laravel).
 <br>
 ⚡ I love learning new technologies.
 <br>
