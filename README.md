@@ -1,4 +1,4 @@
-### Hi there, I'm Berat | [berataras.dev][website] 
+### Hi there, I'm Berat | [berataras.com][website] 
 
 ## I'm a Software Developer
 
